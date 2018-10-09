@@ -9,7 +9,7 @@
 
   ```git checkout -b <branch_name>```
   
-- Add the details as given in the introduction.md following the markdown syntax
+- Add the details as given in the **introduction.md** following the markdown syntax
 - Run the following command to add, commit and push the changes to the new branch with following commands.
   
   ```git add . ```
