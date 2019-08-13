@@ -1,4 +1,4 @@
-## Pull Request Template
+## Pull Request Template For Beginners
 
 - Fork this Repository
 - Clone the repository with the command
